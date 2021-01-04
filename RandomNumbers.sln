@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbers", "RandomNumbers\RandomNumbers.csproj", "{EC74BC3D-95B9-4533-98F1-E3E0C1317D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substitution", "Substitution\Substitution.csproj", "{79B12CBC-F452-4EC0-9CAB-F51ADDCE6038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC74BC3D-95B9-4533-98F1-E3E0C1317D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC74BC3D-95B9-4533-98F1-E3E0C1317D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC74BC3D-95B9-4533-98F1-E3E0C1317D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC74BC3D-95B9-4533-98F1-E3E0C1317D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B12CBC-F452-4EC0-9CAB-F51ADDCE6038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B12CBC-F452-4EC0-9CAB-F51ADDCE6038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B12CBC-F452-4EC0-9CAB-F51ADDCE6038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B12CBC-F452-4EC0-9CAB-F51ADDCE6038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
